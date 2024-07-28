@@ -15,8 +15,8 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
-		"Расписание мероприятий", 
-		"/site_nc/playmate/events/", 
+		"Анонсы", 
+		"/site_nc/playmate/events", 
 		Array(), 
 		Array(), 
 		"" 
